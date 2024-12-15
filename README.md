@@ -15,7 +15,7 @@ Colin Zhang, Kelum C. M. L. Elvitigala, Wildan Mubarok, Yasunori Okano, and Shin
 
 ```bibtex
 @article{zhang_machine_2024,
-  author = {Colin Zhang, Kelum Chamara Manoj Lakmal Elvitigala, Wildan Mubarok, Yasunori Okano and Shinji Sakai},
+  author = {Colin Zhang and Kelum Chamara Manoj Lakmal Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
   title = {Machine learning-based prediction and optimisation framework for as-extruded cell viability in extrusion-based 3D bioprinting},
   journal = {Virtual and Physical Prototyping},
   volume = {19},
@@ -24,7 +24,7 @@ Colin Zhang, Kelum C. M. L. Elvitigala, Wildan Mubarok, Yasunori Okano, and Shin
   year = {2024},
   publisher = {Taylor \& Francis},
   doi = {10.1080/17452759.2024.2400330},
-  URL = {https://doi.org/10.1080/17452759.2024.2400330},
+  url = {https://doi.org/10.1080/17452759.2024.2400330}
 }
 ```
 
