@@ -7,7 +7,11 @@ Extrusion-based 3D bioprinting has revolutionised tissue engineering, enabling c
 
 **Keywords:** 3D bioprinting; cell viability; shear stress; numerical analysis; machine learning; alginate-based bioink
 
-![GraphicalAbstract1](https://github.com/user-attachments/assets/c750fb16-46e7-4ac1-92c1-3b0f4d8f252f)
+<p align="center">
+  <a href="https://doi.org/10.1080/17452759.2024.2400330">
+    <img width="600" alt="GraphicalAbstract1" src="https://github.com/user-attachments/assets/c750fb16-46e7-4ac1-92c1-3b0f4d8f252f">
+  </a>
+</p>
 
 ## Citation
 Colin Zhang, Kelum C. M. L. Elvitigala, Wildan Mubarok, Yasunori Okano, and Shinji Sakai.
