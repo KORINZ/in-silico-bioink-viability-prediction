@@ -14,12 +14,12 @@ Extrusion-based 3D bioprinting has revolutionised tissue engineering, enabling c
 </p>
 
 ## Citation
-Colin Zhang, Kelum C. M. L. Elvitigala, Wildan Mubarok, Yasunori Okano, and Shinji Sakai.
+Colin Zhang, Kelum Elvitigala, Wildan Mubarok, Yasunori Okano, and Shinji Sakai.
 Machine learning-based prediction and optimization framework for as-extruded cell viability in extrusion-based 3D bioprinting. <i>Virtual and Physical Prototyping</i> <b>19</b>, e2400330 (2024). <a href="https://doi.org/10.1080/17452759.2024.2400330">https://doi.org/10.1080/17452759.2024.2400330</a>.
 
 ```bibtex
 @article{zhang_machine_2024,
-  author = {Colin Zhang and Kelum Chamara Manoj Lakmal Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
+  author = {Colin Zhang and Kelum Elvitigala and Wildan Mubarok and Yasunori Okano and Shinji Sakai},
   title = {Machine learning-based prediction and optimisation framework for as-extruded cell viability in extrusion-based 3D bioprinting},
   journal = {Virtual and Physical Prototyping},
   volume = {19},
