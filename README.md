@@ -26,6 +26,7 @@ Colin Zhang, Kelum C. M. L. Elvitigala, Wildan Mubarok, Yasunori Okano, and Shin
   number = {1},
   pages = {e2400330},
   year = {2024},
+  month = {sep},
   publisher = {Taylor \& Francis},
   doi = {10.1080/17452759.2024.2400330},
   url = {https://doi.org/10.1080/17452759.2024.2400330}
