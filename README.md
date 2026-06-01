@@ -11,6 +11,8 @@ Extrusion-based 3D bioprinting has revolutionised tissue engineering, enabling c
   <a href="https://doi.org/10.1080/17452759.2024.2400330">
     <img width="600" alt="GraphicalAbstract1" src="https://github.com/user-attachments/assets/c750fb16-46e7-4ac1-92c1-3b0f4d8f252f">
   </a>
+  <br>
+  <sub>Reproduced from Zhang, C. et al., <i>Virtual and Physical Prototyping</i> <b>19</b>, e2400330 (2024), under CC BY-NC 4.0.</sub>
 </p>
 
 ## Citation
