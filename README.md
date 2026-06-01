@@ -7,6 +7,9 @@ Extrusion-based 3D bioprinting has revolutionised tissue engineering, enabling c
 
 **Keywords:** 3D bioprinting; cell viability; shear stress; numerical analysis; machine learning; alginate-based bioink
 
+<a href="https://www.tandfonline.com/doi/full/10.1080/17452759.2024.2400330">[Open Access Article Link]</a>
+
+## Graphical Abstract
 <p align="center">
   <a href="https://doi.org/10.1080/17452759.2024.2400330">
     <img width="600" alt="GraphicalAbstract1" src="https://github.com/user-attachments/assets/c750fb16-46e7-4ac1-92c1-3b0f4d8f252f">
@@ -36,4 +39,4 @@ Machine learning-based prediction and optimization framework for as-extruded cel
 ```
 
 ## Disclaimer
-Please note that some scripts in this repository might require the corresponding data files to run successfully. The data files are available upon reasonable request from the corresponding author.
+Please note that some scripts in this repository might require the corresponding data files to run successfully. The data files are available upon reasonable request from the corresponding author. This repository is intended for educational and research purposes. The authors are not responsible for any misuse of the code or data provided herein. Users are encouraged to cite the original manuscript when using this code in their research.
